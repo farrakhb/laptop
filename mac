@@ -299,3 +299,6 @@ echo $passwd | sudo -S -k shutdown -r now "Restarting"
 
 #Unset $passwd
 unset passwd
+
+#some random shit to see if this will work
+random text ........
